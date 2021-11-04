@@ -1,0 +1,30 @@
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = https://github.com/mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = https://github.com/mcci-catena/Catena-mcciadk.git
+[submodule "libraries/MCCI-Catena-SHT3x"]
+	path = libraries/MCCI-Catena-SHT3x
+	url = https://github.com/mcci-catena/MCCI-Catena-SHT3x.git
+[submodule "libraries/MCCI_FRAM_I2C"]
+	path = libraries/MCCI_FRAM_I2C
+	url = https://github.com/mcci-catena/MCCI_FRAM_I2C.git
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = https://github.com/mcci-catena/arduino-lmic.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = https://github.com/mcci-catena/arduino-lorawan.git
+[submodule "sketches/catena4618m201_simple"]
+	path = sketches/catena4618m201_simple
+	url = https://github.com/mcci-catena/catena4618m201_simple.git
+[submodule "extra/Arduino_Core_STM32"]
+	path = extra/Arduino_Core_STM32
+	url = https://github.com/mcci-catena/Arduino_Core_STM32.git
+[submodule "extra/bootloader"]
+	path = extra/bootloader
+	url = https://github.com/mcci-catena/bootloader.git
+[submodule "extra/dfu-util"]
+	path = extra/dfu-util
+	url = git://git.code.sf.net/p/dfu-util/dfu-util

@@ -28,3 +28,6 @@
 [submodule "extra/dfu-util"]
 	path = extra/dfu-util
 	url = git://git.code.sf.net/p/dfu-util/dfu-util
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git

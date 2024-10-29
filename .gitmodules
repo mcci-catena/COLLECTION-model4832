@@ -31,3 +31,6 @@
 [submodule "extra/tools-build-with-cli"]
 	path = extra/tools-build-with-cli
 	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "libraries/mcci_ltr_329als"]
+	path = libraries/mcci_ltr_329als
+	url = git@github.com:mcci-catena/mcci_ltr_329als.git
